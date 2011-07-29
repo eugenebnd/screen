@@ -1,0 +1,28 @@
+ ___  ___ _ __ ___  ___ _ __
+/ __|/ __| '__/ _ \/ _ \ '_ \
+\__ \ (__| | |  __/  __/ | | |
+|___/\___|_|  \___|\___|_| |_|
+
+My personal GNU screen configuration.
+
+
+INSTALL
+=======
+
+To install, do::
+
+    cd ~/
+    git clone git://github.com/rdegges/screen.git .screen
+    ln -s ~/.screen/screenrc ~/.screenrc
+
+
+USAGE
+=====
+
+Run `screen` from your terminal, and see the magic.
+
+
+REFERENCES
+==========
+
+http://www.gnu.org/software/screen/manual/screen.html
