@@ -49,7 +49,7 @@ startup_message off
 # %Y-%m-%d - year-month-day
 # %C:%s %A - 12 hour time + AM/PM
 # %u - other users on this window (if any)
-caption always "%=%{= c}[%{=b d}%H%{= c}] [%{=b d}%l%{= c}] [%{=b d}%Y-%m-%d%C:%s %A%{= c}]%="
+caption always "%=%{= c}[%{=b d}%H%{= c}]%="
 
 
 # Force the status line to be the last line. Displays the:
