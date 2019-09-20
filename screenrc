@@ -62,12 +62,12 @@ hardstatus alwayslastline "%{= dd}%=%-w%{=b d}[%n %t]%{= dd}%+w%="
 
 ### Key Bindings
 
-bind u windowlist -b
-bind K kill
-bind ; colon
+# bind u windowlist -b
+# bind K kill
+# bind ; colon
 
 # vim-style movement keys.
-bind j focus down
-bind k focus up
-bind t focus top
-bind b focus bottom
+# bind j focus down
+# bind k focus up
+# bind t focus top
+# bind b focus bottom

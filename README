@@ -12,7 +12,7 @@ INSTALL
 To install, do::
 
     cd ~/
-    git clone git://github.com/rdegges/screen.git .screen
+    git clone https://github.com/eugenebnd/screen.git .screen
     ln -s ~/.screen/screenrc ~/.screenrc
     mkdir -p ~/.screen/{caps,logs}
 
