@@ -10,12 +10,12 @@ INSTALL
 =======
 
 To install, do::
-
-    cd ~/
-    git clone https://github.com/eugenebnd/screen.git .screen
-    ln -s ~/.screen/screenrc ~/.screenrc
-    mkdir -p ~/.screen/{caps,logs}
-
+```bash
+cd ~/
+git clone https://github.com/eugenebnd/screen.git .screen
+ln -s ~/.screen/screenrc ~/.screenrc
+mkdir -p ~/.screen/{caps,logs}
+```
 
 USAGE
 =====
