@@ -9,8 +9,9 @@ My personal GNU screen configuration.
 INSTALL
 =======
 
-To install, do::
-```bash
+To install, do:
+
+```
 cd ~/
 git clone https://github.com/eugenebnd/screen.git .screen
 ln -s ~/.screen/screenrc ~/.screenrc
